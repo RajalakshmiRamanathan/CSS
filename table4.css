@@ -1,0 +1,26 @@
+table,th,tr,td{
+    border: 1px solid green;
+    border-collapse: collapse;
+    margin-left: 40px;
+}
+table{
+    height: 400px;
+    width: 1200px;
+}
+h1{
+    text-align: center;
+}
+tbody{
+    text-align: center;
+}
+.tbody{
+    text-align: left;
+}
+thead{
+   height: 50px; 
+   color:black;
+   background-color: lightgreen;
+}
+table tbody tr:nth-child(even){
+    color: black; background-color: lightgrey;
+}

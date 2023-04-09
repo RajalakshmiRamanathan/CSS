@@ -1,0 +1,115 @@
+body{
+    background-image: linear-gradient(to right,hotpink,pink);
+}
+.bgimg{
+    /* background-image: url("https://image.pngaaa.com/473/2678473-middle.png"); */
+    background-image: linear-gradient(to top,#ef5a70,#fd8c7c);
+    height: 400px;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 200px;
+    position: absolute;
+    bottom: 85px;
+    z-index: 1;
+    box-shadow: -8px -8px 15px rgb(90, 88, 88);
+    border-radius: 6px;
+}
+.img{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+.container{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    /* border: 3px solid red; */
+    margin-top: 30px;
+    margin-right: 300px;
+    margin-left: 550px;
+    position: absolute;
+    top: 100px;
+    right: 80px;
+    z-index: 2;
+    box-shadow: 8px 8px 15px rgb(90, 88, 88);
+    box-shadow: -8px -8px 15px rgb(90, 88, 88);
+}
+.star{
+    float: left;
+    color: goldenrod;
+    margin-left:2px;
+}
+.dollar{
+    float:right;
+    margin-right: 15px;
+    word-spacing: 10px;
+    font-size: 25px;
+}
+.pink{
+    color: plum;
+    float: left;
+    margin-left: 10px;
+    border: 4px;
+    padding: 2px;
+}
+.red{
+    color: red;
+    float: left;
+    border: 2px solid gray ;
+    border-radius: 90%;
+    margin-left: 10px;
+    padding: 2px;
+}
+.yellow{
+    color: yellow;
+    float:left;
+    margin-left: 10px;
+    border: 4px;
+    padding: 2px;
+}
+.green{
+    color: green;
+    float:left;
+    margin-left: 10px;
+    border: 4px ;
+    padding: 2px;
+}
+.container2{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.tsize{
+    font-size: 30px;
+}
+.num{
+    float: left;
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 2px;
+}
+.num2{
+   border: 2px solid gray;
+   border-radius: 50%;
+   padding:2px;
+}
+.chart{
+    border-radius: 30px;
+    background-image: linear-gradient(to top,#f53544,#ef5a70,#fd8c7c);
+    font-size: 14px;
+    margin-right: 60px;
+    color: white;
+    padding: 10px;
+    border: solid;
+    width: 200px;
+    /* box-shadow: 8px 8px 12px rgb(90, 88, 88); */
+}
+.wish{
+    margin-left: 90px;
+}
+.font{
+    position: absolute;
+    top: 330px;
+    left: 200px;
+    font-size: 60px;
+
+}

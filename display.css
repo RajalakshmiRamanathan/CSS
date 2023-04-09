@@ -1,0 +1,13 @@
+body{
+    background-color: teal;
+}
+.div1{
+    background-color: white;
+    height: 550px;
+    width: 350px;
+    margin-left: 50px;
+}
+ul li{
+    display: block;
+    padding: 20px;
+}

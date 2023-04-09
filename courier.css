@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://cloudcfo.ph/wp-content/uploads/2020/06/article_06262020-03.jpg);
+    background-size: cover;
+}
+button{
+    color: white; background-color: orangered;
+}
+.section{
+    margin-left: 10px;
+    margin-top: 200px;
+}
+i{
+    color: rgb(248, 246, 235);
+}
+ul li{
+    color: rgb(17, 20, 20);
+    display: inline;
+    margin-left: 10px;
+    padding: 5px;
+    float: right;
+}
+ul{
+    background-color:goldenrod;
+    list-style-type: none;
+    padding: 30px;
+}

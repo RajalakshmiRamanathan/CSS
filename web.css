@@ -1,0 +1,52 @@
+body{
+    background-image:url("https://st2.depositphotos.com/2931363/9781/i/950/depositphotos_97810170-stock-photo-people-looking-at-laptop.jpg");
+    background-size: cover;
+}
+.div{
+    background-color: rgba(72,74,77,0.8);
+    height: 60px;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    padding: 6px;
+}
+ul li{
+    color: white;
+    display: inline;
+    margin-left: 10px;
+    padding: 15px;
+    margin-top: 150px;
+}  
+.li{
+    margin-left: 600px; 
+} 
+.age{
+    font-size: 30px;
+}
+i{
+    padding: 10px;
+}
+section{
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 380px;
+}
+h1{
+    font-size: 60px;
+}
+.bgbox{
+    background-color: rgba(72,74,77,0.8);
+    height: 300px;
+    width: 40%;
+    color: white;
+}
+span{
+    color: yellow;
+}
+.line{
+    outline: 2px solid yellow;
+    width: 250px;
+    padding: 6px;
+    margin-left: 130px;
+}

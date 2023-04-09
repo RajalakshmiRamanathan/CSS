@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+div{
+    margin: 35%;
+}
+img{
+    height: 300px;
+    width: 397px;
+}
+.head{
+    color: black;
+    text-align: center;
+    margin: 10%;
+}
+p{
+    color: black;
+    text-align: center;
+}

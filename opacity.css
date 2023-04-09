@@ -1,0 +1,74 @@
+.div1{
+    background-image: url("https://img.freepik.com/free-photo/flat-lay-office-desk-assortment-with-empty-screen-tablet_23-2148707960.jpg");
+    background-size: cover;
+    height:500px;
+    width: 100%;
+}
+.div2{
+    background-color: red;
+    background-size: cover;
+    height:500px;
+    width: 100%;
+    opacity: 0.4;
+    overflow: hidden;
+}
+.icon{
+    color: white;
+    font-size: 35px;
+    margin-left: 18px;
+    /* position: absolute;
+    left: 40px;
+    top: 50px; */
+}
+.i{
+    color: white;
+    font-size: 30px;
+    padding: 40px;
+    /* position: absolute;
+    left: 100px;
+    top: 48px; */
+}
+.i1{
+    float: right;
+    border: 1px solid white;
+    /* position: relative;
+    top: 50px;
+    right: 50px; */
+    border-radius: 20px;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.div3{
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+    /* position: relative;
+    bottom: 300px; */
+}
+h1{
+    font-size: 50px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    border-radius: 25px;
+}
+.div4{
+    text-align: center;
+    font-size: 30px;
+    padding: 100px;
+}
+.div5{
+    background-color: black;
+    height: 300px;
+    width: 100%;
+    color: red;
+    font-size: 35px;
+}
+.div6{
+   float: left; 
+}

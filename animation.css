@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+p{
+    letter-spacing: 40px;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 23%;
+}
+.div1{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: relative;
+    bottom: 120px;
+    left: 800px;
+    animation-name: demo;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-duration: 5s;
+}
+@keyframes demo{ 
+    from{
+        left: 400px;
+    }
+    to{
+       right: 400px;
+    }
+
+}

@@ -1,0 +1,76 @@
+.container{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border: 3px solid red;
+    margin-top: 60px;
+    margin-right: 400px;
+    margin-left: 500px;
+}
+.star{
+    float: left;
+    color: goldenrod;
+    margin-left:2px;
+}
+.dollar{
+    float:right;
+    margin-right: 15px;
+    word-spacing: 10px;
+    font-size: 25px;
+}
+.pink{
+    color: plum;
+    float: left;
+    margin-left: 10px;
+    border: 4px;
+    padding: 2px;
+}
+.red{
+    color: red;
+    float: left;
+    border: 2px solid gray ;
+    border-radius: 90%;
+    margin-left: 10px;
+    padding: 2px;
+}
+.yellow{
+    color: yellow;
+    float:left;
+    margin-left: 10px;
+    border: 4px;
+    padding: 2px;
+}
+.green{
+    color: green;
+    float:left;
+    margin-left: 10px;
+    border: 4px ;
+    padding: 2px;
+}
+.container2{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.tsize{
+    font-size: 30px;
+}
+.num{
+    float: left;
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 2px;
+}
+.num2{
+    border: 4px solid gray;
+   border-radius: 50%;
+   padding:2px;
+}
+.chart{
+    border-radius: 30px;
+    background-color: palevioletred;
+    font-size: 20px;
+    margin-right: 60px;
+}
+.wish{
+    margin-left: 90px;
+}

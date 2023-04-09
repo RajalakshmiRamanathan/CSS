@@ -1,0 +1,33 @@
+body{
+    background-color:cadetblue;
+}
+section{
+    text-align: center;
+    margin-top: 150px;
+}
+ul li{
+    color:aliceblue;
+    display: inline;
+    margin-left: 10px;
+    padding: 5px;
+    float: right;
+}
+ul{
+    background-color:cadetblue;
+    list-style-type: none;
+    padding: 30px;
+}
+button{
+    color:aliceblue;background-color: cadetblue;
+    width: 150px;
+    height: 30px;
+    border: 1px ridge white;
+    
+    
+}
+*{
+    color: aliceblue;
+}
+p{
+    font-size:20px;
+}

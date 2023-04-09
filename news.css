@@ -1,0 +1,16 @@
+hr{
+    height: 10px;
+    width: 1300px;
+}
+h1{
+    text-align: center;
+}
+.h1{
+    /* text-align: left; */
+    margin-left: 60px;
+    margin-right: 900px;
+    text-align: justify;
+}
+body{
+    background-color: gainsboro;
+}

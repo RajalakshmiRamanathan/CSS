@@ -1,0 +1,16 @@
+#table_bg{
+    background-color: lightgreen;
+    width: 100%;
+}
+#table_one{
+    height: 190px;
+    width: 300px;
+}
+.table_head{
+    color: black;
+    font-size: 30px;
+}
+b{
+    color: fuchsia;
+    font-size: 40px;
+}
